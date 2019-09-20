@@ -21,5 +21,5 @@
 
 ![step 4](https://github.com/zenny-chen/For-Xcode-how-to-view-the-whole-compiling-options-in-the-current-project/blob/master/step4.png)
 
-我们可以选中感兴趣的部分，然后直接复制即可。
+我们可以选中自己感兴趣的部分，然后直接复制即可。
 
